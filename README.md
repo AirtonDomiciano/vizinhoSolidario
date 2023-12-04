@@ -1,2 +1,2 @@
 # vizinhoSolidario
-Aionic
+ionic
